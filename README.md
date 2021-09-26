@@ -18,15 +18,15 @@ $ git clone https://github.com/Visheshss/BetterBooks
 ```
 2. Navigate to BetterBooks
 ```
-cd BetterBooks
+$ cd BetterBooks
 ```
 3. Set FLASK_APP and the database URL
 ```
-export FLASK_APP=application.py
-export DATABASE_URL=postgresql://dlwwsddwxxunxl:d0f70249e3b383171fafb8b43f7e849ee54cf54cbabcc9ef6a469158e7c15261@ec2-184-72-236-3.compute-1.amazonaws.com:5432/d9ihnf6go7q5ab
+$ export FLASK_APP=application.py
+$ export DATABASE_URL=postgresql://dlwwsddwxxunxl:d0f70249e3b383171fafb8b43f7e849ee54cf54cbabcc9ef6a469158e7c15261@ec2-184-72-236-3.compute-1.amazonaws.com:5432/d9ihnf6go7q5ab
 ```
 4. Run the application
 ```
-flask run
+$ flask run
 ```
 
