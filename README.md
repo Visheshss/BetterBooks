@@ -1,6 +1,6 @@
 # **BetterBooks**
 
-BetterBooks is a web database for books. It allows users to search for books by author, keywords, and isbn. Users can also submit reviews for books and give ratings, which are visible to everyone. 
+BetterBooks is a book site. It allows users to search for books by author, keywords, and isbn. Users can also submit reviews for books and give ratings, which are visible to everyone. 
 
 I built this website to learn the basics of Flask, SQL, HTML, CSS, and how to use all of them together. I was able to learn a lot of fundamental skills, such as templating, login systems, links, and querying databases. 
 
